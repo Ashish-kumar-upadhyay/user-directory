@@ -1,8 +1,3 @@
-# Create an eye-catching README.md file for the User Directory project
-
-import pypandoc
-
-readme_content = """
 # 🌍 User Directory App
 
 A simple and clean React application built using **Vite** that fetches user data from a public API and displays it in a responsive card layout.
